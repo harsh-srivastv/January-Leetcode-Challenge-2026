@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/harsh-srivastv/January-Leetcode-Challenge-2026/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/harsh-srivastv/January-Leetcode-Challenge-2026/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Array
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/harsh-srivastv/January-Leetcode-Challenge-2026/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/harsh-srivastv/January-Leetcode-Challenge-2026/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/harsh-srivastv/January-Leetcode-Challenge-2026/tree/master/1975-maximum-matrix-sum) |
 ## Math
 |  |
