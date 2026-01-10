@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harsh-srivastv/January-Leetcode-Challenge-2026/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/harsh-srivastv/January-Leetcode-Challenge-2026/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/harsh-srivastv/January-Leetcode-Challenge-2026/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Array
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-srivastv/January-Leetcode-Challenge-2026/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## String
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harsh-srivastv/January-Leetcode-Challenge-2026/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
